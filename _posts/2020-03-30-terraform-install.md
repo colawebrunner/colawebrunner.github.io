@@ -23,7 +23,7 @@ The easiest way I have found to accomplish this is by moving terraform to my use
 
 First of all I printed my $PATH variable:
 
-![print_path.png](:/0ee78397963e42e397e6e0d7ec8a4324)
+![print_path.png](../images/print_path.png)
 
 I then moved the terraform binary that I had downloaded into `.local/bin` as I am the only one planning on using this computer I feel this suits my needs.
 
