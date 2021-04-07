@@ -27,7 +27,7 @@ show_excerpts: yes
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-merlot
 # remote_theme: 
 plugins:
   - jekyll-feed
