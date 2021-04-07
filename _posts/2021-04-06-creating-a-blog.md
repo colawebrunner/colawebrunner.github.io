@@ -3,11 +3,12 @@ layout: post
 title:  "Creating a blog"
 date:   2021-04-06 23:53:52 +0100
 categories: github blog
+excerpt_separator: <!--more-->
 ---
 ## brief
 
 I work with a lot of differnet tech and I read alot of blogs, today I decided I want to write my own blog, so this is my first post showing very quickly the process I went through.
-
+<!--more-->
 ## method
 
 ### Whats in a name?
