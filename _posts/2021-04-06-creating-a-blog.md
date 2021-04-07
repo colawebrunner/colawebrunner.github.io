@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Creating a blog"
 date:   2021-04-06 23:53:52 +0100
 categories: github blog
