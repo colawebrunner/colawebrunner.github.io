@@ -27,8 +27,8 @@ show_excerpts: yes
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
-# remote_theme: 
+# theme: jekyll-theme-merlot
+remote_theme: "dracula/gh-pages"
 plugins:
   - jekyll-feed
 
