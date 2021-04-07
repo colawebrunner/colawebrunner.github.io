@@ -26,7 +26,8 @@ github_username:  colawebrunner
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: architect
+# remote_theme: 
 plugins:
   - jekyll-feed
 
