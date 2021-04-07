@@ -27,7 +27,7 @@ show_excerpts: yes
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
 # remote_theme: 
 plugins:
   - jekyll-feed
