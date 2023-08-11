@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Terraform - Installing on Ubuntu 18.04 Desktop"
-date:   2020-03-30 22:09:31 +0100
-categories: terraform
+date:   2023-03-10 15:09:31 +0100
+categories: git,github
 excerpt_separator: <!--more-->
 ---
 ## brief
