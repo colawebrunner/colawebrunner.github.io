@@ -46,4 +46,4 @@ Now we can use git-tfs to help migrate our TFS projects to Git. Firstly we need 
 
 `git-tfs `
 
-{% gist }
+{% gist %}
