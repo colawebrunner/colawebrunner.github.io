@@ -44,6 +44,21 @@ Now we can use git-tfs to help migrate our TFS projects to Git. Firstly we need 
 2. The project name you want to clone.
 3. Destination folder
 
-`git-tfs `
+Example command might look like this:
+
+`git-tfs clone https://dev.azure.com/[owner name] my-tfs-project-folder .\src\component`
+
+This should create a local folder under `.\src\component\` named `my-tfs-project` with your TFS project files and folders in. It will also create a `.git` folder in `my-tfs-project` with all the commit history.
+
+Now we can add this local project folder as a remote git location. This will allow us to add the git commit history to the main git repo git log. For this command we will need:
+
+1. The name we want to call the project
+2. The local location of the newly created git project repo
+
+Example command might look like this:
+
+`git remote add -f my-tfs-project .\src\component\my-tfs-project`
+
+
 
 {% gist colawebrunner/7e7fb42420c6326db1435e55dec4cc0c %}
