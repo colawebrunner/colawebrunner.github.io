@@ -2,7 +2,7 @@
 layout: post
 title:  "Migrating TFS to Git"
 date:   2023-08-10 15:09:31 +0100
-categories: git,github
+categories: git github
 excerpt_separator: <!--more-->
 ---
 ## brief
